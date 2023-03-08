@@ -1,2 +1,2 @@
 # rsschool-cv
-<https://rabelfox.github.io/rsschool-cv/cv>
+https://rabelfox.github.io/rsschool-cv/
