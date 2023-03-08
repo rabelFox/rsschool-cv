@@ -2,11 +2,10 @@
 
 # Vladimir Yushkov
 
-# Contacts
-**email:** v.unioan@yahoo.com<br>
+**email:** v.unioan@yahoo.com <br>
 **discord:** Vlad (@rabelFox) <br>
-**telegram:** @V_Valdi<br>
-**social networks:** [LinkedIn](https://www.linkedin.com/in/unioan/) | [Github](https://github.com/rabelFox)<br>
+**telegram:** @V_Valdi <br>
+**social networks:** [LinkedIn](https://www.linkedin.com/in/unioan/) | [Github](https://github.com/rabelFox) <br>
 
 # About me
 I have been developing iOS applications for two years. I've started learning JavaScript to be able to develop web applications as well. 
@@ -23,7 +22,7 @@ My favorite parts of development is designing screens, UI elements and working o
 # Code Examples
 It is the initial task from CodeGames website. This code determins the closer enemy and prints it's name to the console using ternary operator.
 
-```JavaScript
+```js
 while (true) {
     var enemy1 = readline(); 
     var dist1 = parseInt(readline()); 
@@ -66,7 +65,7 @@ Kutafin Moscow State Law Academy <br>
 2017 – 2019
 
 ### **Courses:**
-* 3D design and visualisation (Maya)<br>
+* 3D design and visualisation (Maya) <br>
 Bauman Moscow State Technical University <br>
 2012
 
@@ -75,4 +74,4 @@ Bauman Moscow State Technical University <br>
 * **Russian** - Native <br>
 
 # Projects
-* cv - https://github.com/rabelFox/rsschool-cv
+* cv - <https://github.com/rabelFox/rsschool-cv>
